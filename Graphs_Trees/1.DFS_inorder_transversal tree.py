@@ -19,7 +19,7 @@ def printInorder(root):
 		printInorder(root.left)
 
 		# Then print the data of node
-		print(root.val, end=" "),
+		print(root.val, end=" "), # Put this first for preorder transversal and last for postorder transversal
 
 		# Now recur on right child
 		printInorder(root.right)
