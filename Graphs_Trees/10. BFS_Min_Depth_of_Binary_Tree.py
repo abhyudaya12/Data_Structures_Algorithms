@@ -1,4 +1,4 @@
-![image](https://github.com/abhyudaya12/Data_Structures_Algorithms/assets/28287783/949197ba-d31b-4d75-a29a-c4be3708ebfc)
+#![image](https://github.com/abhyudaya12/Data_Structures_Algorithms/assets/28287783/949197ba-d31b-4d75-a29a-c4be3708ebfc)
 
 ### Beats 92%+ solutions
 
